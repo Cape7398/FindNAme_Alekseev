@@ -1,0 +1,2 @@
+rootProject.name = "FindNAme_Alekseev"
+include ':app'
